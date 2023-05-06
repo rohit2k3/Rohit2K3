@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://twitter.com/rohitsharma2k3" target="blank"><img src="https://img.shields.io/twitter/follow/rohitsharma2k3?logo=twitter&style=for-the-badge" alt="rohitsharma2k3" /></a> </p>
 
 # 💫 About Me:
-🔭 I’m currently working on Paper-Library<br>👯 I’m looking to collaborate on Open Source Projects<br>🤝 I’m ready to help<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about Reactjs, Nodejs , MERN Stack, Cloud<br>📫 How to reach me rohitsharma2k3@gmail.com
+🔭 I’m currently working on Paper-Library<br>👯 I’m looking to collaborate on Open Source Projects<br>🌱 I’m currently learning MERN Stack<br>💬 Ask me about Reactjs, Nodejs , MERN Stack, Cloud<br>📫 How to reach me rohitsharma2k3@gmail.com
 
 
 ## 🌐 Socials:

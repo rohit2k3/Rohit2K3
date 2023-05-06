@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohit</h1>
 
+<h3 align="center">Open Source Contributor | MERN Developer | Tech Enthusiast</h3>
+
 [![](https://visitcount.itsvg.in/api?id=Rohit2k3&icon=5&color=3)](https://visitcount.itsvg.in)
 
 <p align="left"> <a href="https://twitter.com/rohitsharma2k3" target="blank"><img src="https://img.shields.io/twitter/follow/rohitsharma2k3?logo=twitter&style=for-the-badge" alt="rohitsharma2k3" /></a> </p>
